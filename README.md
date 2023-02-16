@@ -6,6 +6,10 @@ Evogym is a website designed to help people achieve their fitness goals. It was 
 
 ## Deployed At
 
+- https://evogym-demo.pages.dev/
+
+- https://github.com/KKWChao/DemoSite
+
 ---
 
 ## Getting Started
