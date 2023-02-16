@@ -4,7 +4,11 @@ Evogym is a website designed to help people achieve their fitness goals. It was 
 
 ---
 
-### Getting Started
+## Deployed At
+
+---
+
+## Getting Started
 
 To get started, follow these steps:
 
@@ -34,6 +38,9 @@ Evogym was built using the following technologies:
 - TypeScript: a superset of JavaScript that adds static typing and other features
 - JavaScript: the programming language used to build the website
 - Vite: a build tool that provides fast, modern build capabilities
+- React: A JavaScript library for building reusable user interface components and managing application state.
+
+- Tailwind: A CSS framework that provides a set of utility classes to style HTML without writing custom CSS, promoting consistency and modularity in stylesheets.
 
 ---
 
